@@ -1,0 +1,9 @@
+.git
+.github
+target
+scripts
+*.md
+*.tar
+*.tar.gz
+.env
+.env.*
